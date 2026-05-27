@@ -1,4 +1,6 @@
-# AAFT Mini LMS
+# AAFT Mini LMS — Reference Frontend
+
+> **For backend candidates:** This UI is provided for integration testing. Do not rewrite it. Implement the API described in [API-CONTRACT.md](./API-CONTRACT.md) and connect via `NEXT_PUBLIC_API_URL`.
 
 A production-grade **Mini Learning Management System** with separate **Admin** and **Student** portals — built as a frontend assignment demonstrating modern React architecture, Redux Toolkit, and premium UI/UX.
 
@@ -241,7 +243,7 @@ Senior Front-End Engineer · React & Next.js
 | LinkedIn | [linkedin.com/in/semiintrovert](https://www.linkedin.com/in/semiintrovert/) |
 | GitHub | [github.com/varundwt](https://github.com/varundwt) |
 
-Built as the **AAFT Frontend Developer Assignment** — Mini LMS module (Admin + Student portals).
+Bundled as the **reference frontend** for the AAFT Backend Developer Assignment (Admin + Student portals).
 
 ---
 
