@@ -53,7 +53,7 @@ Provide a seed script that creates at minimum:
 
 ## Integration checklist
 
-- [ ] All routes in `../docs/API-CONTRACT.md` implemented
+- [ ] All routes in **Appendix A** of [../ASSIGNMENT.md](../ASSIGNMENT.md) implemented
 - [ ] CORS enabled for the Next.js dev server
 - [ ] Error responses use `{ "message": "..." }`
 - [ ] Video progress: complete at ≥ 90%

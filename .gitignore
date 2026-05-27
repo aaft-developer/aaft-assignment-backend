@@ -141,3 +141,12 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# AI / IDE tooling (not part of the assignment)
+.cursor/
+.cursorrules
+.cursorignore
+AGENTS.md
+CLAUDE.md
+.windsurfrules
+.copilot/
